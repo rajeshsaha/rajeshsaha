@@ -1,11 +1,7 @@
 <h1 align="center">Hi I'm Rajesh Saha</h1>
 
----
-
 ### 💫 About Me
 - ⚡ Fun fact: I love building products that solve real problems.
-
----
 
 ### 🌐 Connect with Me
 <p align="left">
